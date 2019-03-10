@@ -1,0 +1,12 @@
+-------------------------------------------------------------------------------
+Test set: com.poc.UnitTesting.conroller.StudentControllerTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 4.371 s <<< FAILURE! - in com.poc.UnitTesting.conroller.StudentControllerTest
+retrieveDetailsForCourse(com.poc.UnitTesting.conroller.StudentControllerTest)  Time elapsed: 0.245 s  <<< FAILURE!
+java.lang.AssertionError: 
+description
+Expected: 10 Steps, 25 Examples and 10K Students
+     got: 10 Steps
+
+	at com.poc.UnitTesting.conroller.StudentControllerTest.retrieveDetailsForCourse(StudentControllerTest.java:64)
+

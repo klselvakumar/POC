@@ -1,0 +1,6 @@
+com\poc\UnitTesting\model\Course.class
+com\poc\UnitTesting\controller\StudentController.class
+com\poc\UnitTesting\model\Student.class
+com\poc\UnitTesting\facades\Generator.class
+com\poc\UnitTesting\UnitTestingApplication.class
+com\poc\UnitTesting\service\StudentService.class
